@@ -1,0 +1,7 @@
+com\example\test\controller\ArticleController.class
+com\example\test\controller\impl\ArticleControllerImpl.class
+com\example\test\TestApplication.class
+com\example\test\repository\ArticleRepository.class
+com\example\test\service\ArticleService.class
+com\example\test\service\impl\ArticleServiceImpl.class
+com\example\test\model\Article.class
